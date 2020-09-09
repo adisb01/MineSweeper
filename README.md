@@ -2,7 +2,7 @@
 # CIS 120 Game Project README
 
 
-# Core Concepts 
+## Core Concepts 
 
 
 - List the four core concepts, the features they implement, and why each feature
@@ -53,7 +53,7 @@
   times a big area will clear up.
 
 
-# Your Implementation 
+## Your Implementation 
 
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
@@ -167,7 +167,7 @@
 
 
 
-# External Resources 
+## External Resources 
 
 Grass pattern pic:
 https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwijoJ3OwKTmAhWFzlkKHUsFAgIQjRx6BAgBEAQ&url=https%3A%2F%2Fdownloops.com%2Fstock-footage%2Fmosaic-green-free-download-magnified-pixels-pattern-video-loop%2F&psig=AOvVaw2hjyZOX7GhTi5jMQfkShin&ust=1575841322951277
